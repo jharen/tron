@@ -1,7 +1,7 @@
 Tron README
 ==================
 
-Getting Started
+Getting Started for devs
 ---------------
 
 - cd <directory containing this file>
